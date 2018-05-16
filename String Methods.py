@@ -1,0 +1,18 @@
+s = "Hi There"
+len(s)
+s.center(11)
+s.count("e")
+s.endswith("There")
+s.startswith("Hi")
+s.find("The")
+s.isalpha()
+"abc".isalpha()
+"326".isdigit()
+words = s.split()
+words
+"".join(words)
+" ".join(words)
+s.lower()
+s.upper()
+s.replace("i","o")
+"Hi There ! ".strip()
